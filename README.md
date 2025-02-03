@@ -1,2 +1,2 @@
 # DjangoTodo-CouchDB
-Oflline Todo app using django and couch db
+An oflline Todo app using django and couch db
